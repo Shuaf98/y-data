@@ -1,0 +1,698 @@
+﻿ts,description
+01/11/2017 0:00,broken clouds
+01/11/2017 1:00,scattered clouds
+01/11/2017 2:00,overcast clouds
+01/11/2017 3:00,broken clouds
+01/11/2017 4:00,broken clouds
+01/11/2017 5:00,overcast clouds
+01/11/2017 6:00,overcast clouds
+01/11/2017 7:00,overcast clouds
+01/11/2017 8:00,overcast clouds
+01/11/2017 9:00,overcast clouds
+01/11/2017 10:00,overcast clouds
+01/11/2017 11:00,overcast clouds
+01/11/2017 12:00,overcast clouds
+01/11/2017 13:00,overcast clouds
+01/11/2017 14:00,broken clouds
+01/11/2017 15:00,broken clouds
+01/11/2017 16:00,sky is clear
+01/11/2017 17:00,overcast clouds
+01/11/2017 18:00,overcast clouds
+01/11/2017 19:00,overcast clouds
+01/11/2017 20:00,overcast clouds
+01/11/2017 21:00,mist
+01/11/2017 22:00,mist
+01/11/2017 23:00,mist
+02/11/2017 0:00,mist
+02/11/2017 1:00,mist
+02/11/2017 2:00,drizzle
+02/11/2017 3:00,light rain
+02/11/2017 4:00,light rain
+02/11/2017 5:00,light rain
+02/11/2017 6:00,light rain
+02/11/2017 7:00,moderate rain
+02/11/2017 8:00,fog
+02/11/2017 9:00,fog
+02/11/2017 10:00,fog
+02/11/2017 11:00,fog
+02/11/2017 12:00,light rain
+02/11/2017 13:00,fog
+02/11/2017 14:00,fog
+02/11/2017 15:00,light intensity drizzle
+02/11/2017 16:00,light intensity drizzle
+02/11/2017 17:00,mist
+02/11/2017 18:00,mist
+02/11/2017 19:00,light intensity drizzle
+02/11/2017 20:00,moderate rain
+02/11/2017 21:00,light rain
+02/11/2017 22:00,drizzle
+02/11/2017 23:00,drizzle
+03/11/2017 0:00,moderate rain
+03/11/2017 1:00,mist
+03/11/2017 2:00,mist
+03/11/2017 3:00,mist
+03/11/2017 4:00,mist
+03/11/2017 5:00,mist
+03/11/2017 6:00,mist
+03/11/2017 7:00,mist
+03/11/2017 8:00,mist
+03/11/2017 9:00,mist
+03/11/2017 10:00,mist
+03/11/2017 11:00,overcast clouds
+03/11/2017 12:00,overcast clouds
+03/11/2017 13:00,overcast clouds
+03/11/2017 14:00,mist
+03/11/2017 15:00,overcast clouds
+03/11/2017 16:00,overcast clouds
+03/11/2017 17:00,overcast clouds
+03/11/2017 18:00,overcast clouds
+03/11/2017 19:00,overcast clouds
+03/11/2017 20:00,overcast clouds
+03/11/2017 21:00,broken clouds
+03/11/2017 22:00,broken clouds
+03/11/2017 23:00,broken clouds
+04/11/2017 0:00,broken clouds
+04/11/2017 1:00,broken clouds
+04/11/2017 2:00,scattered clouds
+04/11/2017 3:00,few clouds
+04/11/2017 4:00,sky is clear
+04/11/2017 5:00,sky is clear
+04/11/2017 6:00,sky is clear
+04/11/2017 7:00,sky is clear
+04/11/2017 8:00,sky is clear
+04/11/2017 9:00,sky is clear
+04/11/2017 10:00,sky is clear
+04/11/2017 11:00,broken clouds
+04/11/2017 12:00,mist
+04/11/2017 13:00,mist
+04/11/2017 14:00,light intensity drizzle
+04/11/2017 15:00,mist
+04/11/2017 16:00,thunderstorm with drizzle
+04/11/2017 17:00,proximity thunderstorm
+04/11/2017 18:00,light rain
+04/11/2017 19:00,mist
+04/11/2017 20:00,mist
+04/11/2017 21:00,mist
+04/11/2017 22:00,mist
+04/11/2017 23:00,fog
+05/11/2017 0:00,mist
+05/11/2017 1:00,moderate rain
+05/11/2017 2:00,fog
+05/11/2017 3:00,fog
+05/11/2017 4:00,light rain
+05/11/2017 5:00,moderate rain
+05/11/2017 6:00,fog
+05/11/2017 7:00,fog
+05/11/2017 8:00,light intensity drizzle
+05/11/2017 9:00,fog
+05/11/2017 10:00,fog
+05/11/2017 11:00,fog
+05/11/2017 12:00,fog
+05/11/2017 13:00,drizzle
+05/11/2017 14:00,moderate rain
+05/11/2017 15:00,fog
+05/11/2017 16:00,proximity thunderstorm
+05/11/2017 17:00,light intensity drizzle
+05/11/2017 18:00,proximity thunderstorm with rain
+05/11/2017 19:00,proximity thunderstorm
+05/11/2017 20:00,light rain
+05/11/2017 21:00,mist
+05/11/2017 22:00,mist
+05/11/2017 23:00,overcast clouds
+06/11/2017 0:00,overcast clouds
+06/11/2017 1:00,overcast clouds
+06/11/2017 2:00,overcast clouds
+06/11/2017 3:00,overcast clouds
+06/11/2017 4:00,overcast clouds
+06/11/2017 5:00,overcast clouds
+06/11/2017 6:00,overcast clouds
+06/11/2017 7:00,overcast clouds
+06/11/2017 8:00,overcast clouds
+06/11/2017 9:00,broken clouds
+06/11/2017 10:00,overcast clouds
+06/11/2017 11:00,broken clouds
+06/11/2017 12:00,overcast clouds
+06/11/2017 13:00,overcast clouds
+06/11/2017 14:00,broken clouds
+06/11/2017 15:00,broken clouds
+06/11/2017 16:00,broken clouds
+06/11/2017 17:00,broken clouds
+06/11/2017 18:00,broken clouds
+06/11/2017 19:00,broken clouds
+06/11/2017 20:00,broken clouds
+06/11/2017 21:00,sky is clear
+06/11/2017 22:00,broken clouds
+06/11/2017 23:00,broken clouds
+07/11/2017 0:00,scattered clouds
+07/11/2017 1:00,broken clouds
+07/11/2017 2:00,overcast clouds
+07/11/2017 3:00,overcast clouds
+07/11/2017 4:00,broken clouds
+07/11/2017 5:00,overcast clouds
+07/11/2017 6:00,overcast clouds
+07/11/2017 7:00,broken clouds
+07/11/2017 8:00,overcast clouds
+07/11/2017 9:00,scattered clouds
+07/11/2017 10:00,broken clouds
+07/11/2017 11:00,overcast clouds
+07/11/2017 12:00,overcast clouds
+07/11/2017 13:00,overcast clouds
+07/11/2017 14:00,overcast clouds
+07/11/2017 15:00,broken clouds
+07/11/2017 16:00,overcast clouds
+07/11/2017 17:00,broken clouds
+07/11/2017 18:00,broken clouds
+07/11/2017 19:00,broken clouds
+07/11/2017 20:00,scattered clouds
+07/11/2017 21:00,overcast clouds
+07/11/2017 22:00,overcast clouds
+07/11/2017 23:00,light rain
+08/11/2017 0:00,light rain
+08/11/2017 1:00,overcast clouds
+08/11/2017 2:00,broken clouds
+08/11/2017 3:00,broken clouds
+08/11/2017 4:00,scattered clouds
+08/11/2017 5:00,sky is clear
+08/11/2017 6:00,sky is clear
+08/11/2017 7:00,sky is clear
+08/11/2017 8:00,sky is clear
+08/11/2017 9:00,sky is clear
+08/11/2017 10:00,sky is clear
+08/11/2017 11:00,mist
+08/11/2017 12:00,mist
+08/11/2017 13:00,mist
+08/11/2017 14:00,mist
+08/11/2017 15:00,mist
+08/11/2017 16:00,sky is clear
+08/11/2017 17:00,sky is clear
+08/11/2017 18:00,sky is clear
+08/11/2017 19:00,sky is clear
+08/11/2017 20:00,sky is clear
+08/11/2017 21:00,sky is clear
+08/11/2017 22:00,sky is clear
+08/11/2017 23:00,few clouds
+09/11/2017 0:00,sky is clear
+09/11/2017 1:00,sky is clear
+09/11/2017 2:00,sky is clear
+09/11/2017 3:00,sky is clear
+09/11/2017 4:00,mist
+09/11/2017 5:00,sky is clear
+09/11/2017 6:00,sky is clear
+09/11/2017 7:00,mist
+09/11/2017 8:00,sky is clear
+09/11/2017 9:00,sky is clear
+09/11/2017 10:00,sky is clear
+09/11/2017 11:00,sky is clear
+09/11/2017 12:00,overcast clouds
+09/11/2017 13:00,broken clouds
+09/11/2017 14:00,overcast clouds
+09/11/2017 15:00,overcast clouds
+09/11/2017 16:00,broken clouds
+09/11/2017 17:00,few clouds
+09/11/2017 18:00,broken clouds
+09/11/2017 19:00,overcast clouds
+09/11/2017 20:00,scattered clouds
+09/11/2017 21:00,few clouds
+09/11/2017 22:00,few clouds
+09/11/2017 23:00,scattered clouds
+10/11/2017 0:00,sky is clear
+10/11/2017 1:00,few clouds
+10/11/2017 2:00,few clouds
+10/11/2017 3:00,few clouds
+10/11/2017 4:00,sky is clear
+10/11/2017 5:00,sky is clear
+10/11/2017 6:00,overcast clouds
+10/11/2017 7:00,overcast clouds
+10/11/2017 8:00,overcast clouds
+10/11/2017 9:00,overcast clouds
+10/11/2017 10:00,light snow
+10/11/2017 11:00,light snow
+10/11/2017 12:00,light snow
+10/11/2017 13:00,light snow
+10/11/2017 14:00,light snow
+10/11/2017 15:00,light snow
+10/11/2017 16:00,mist
+10/11/2017 17:00,light intensity drizzle
+10/11/2017 18:00,mist
+10/11/2017 19:00,mist
+10/11/2017 20:00,mist
+10/11/2017 21:00,light snow
+10/11/2017 22:00,scattered clouds
+10/11/2017 23:00,overcast clouds
+11/11/2017 0:00,sky is clear
+11/11/2017 1:00,broken clouds
+11/11/2017 2:00,broken clouds
+11/11/2017 3:00,broken clouds
+11/11/2017 4:00,broken clouds
+11/11/2017 5:00,sky is clear
+11/11/2017 6:00,sky is clear
+11/11/2017 7:00,sky is clear
+11/11/2017 8:00,sky is clear
+11/11/2017 9:00,sky is clear
+11/11/2017 10:00,scattered clouds
+11/11/2017 11:00,broken clouds
+11/11/2017 12:00,sky is clear
+11/11/2017 13:00,scattered clouds
+11/11/2017 14:00,overcast clouds
+11/11/2017 15:00,overcast clouds
+11/11/2017 16:00,overcast clouds
+11/11/2017 17:00,overcast clouds
+11/11/2017 18:00,overcast clouds
+11/11/2017 19:00,overcast clouds
+11/11/2017 20:00,overcast clouds
+11/11/2017 21:00,overcast clouds
+11/11/2017 22:00,overcast clouds
+11/11/2017 23:00,overcast clouds
+12/11/2017 0:00,overcast clouds
+12/11/2017 1:00,overcast clouds
+12/11/2017 2:00,overcast clouds
+12/11/2017 3:00,overcast clouds
+12/11/2017 4:00,overcast clouds
+12/11/2017 5:00,overcast clouds
+12/11/2017 6:00,drizzle
+12/11/2017 7:00,light rain
+12/11/2017 8:00,light rain
+12/11/2017 9:00,light rain
+12/11/2017 10:00,mist
+12/11/2017 11:00,mist
+12/11/2017 12:00,mist
+12/11/2017 13:00,light rain
+12/11/2017 14:00,light rain
+12/11/2017 15:00,mist
+12/11/2017 16:00,mist
+12/11/2017 17:00,light intensity drizzle
+12/11/2017 18:00,light snow
+12/11/2017 19:00,mist
+12/11/2017 20:00,mist
+12/11/2017 21:00,drizzle
+12/11/2017 22:00,drizzle
+12/11/2017 23:00,light rain
+13/11/2017 0:00,light rain
+13/11/2017 1:00,mist
+13/11/2017 2:00,mist
+13/11/2017 3:00,mist
+13/11/2017 4:00,mist
+13/11/2017 5:00,mist
+13/11/2017 6:00,mist
+13/11/2017 7:00,mist
+13/11/2017 8:00,mist
+13/11/2017 9:00,mist
+13/11/2017 10:00,mist
+13/11/2017 11:00,fog
+13/11/2017 12:00,fog
+13/11/2017 13:00,fog
+13/11/2017 14:00,fog
+13/11/2017 15:00,haze
+13/11/2017 16:00,haze
+13/11/2017 17:00,mist
+13/11/2017 18:00,mist
+13/11/2017 19:00,mist
+13/11/2017 20:00,mist
+13/11/2017 21:00,mist
+13/11/2017 22:00,mist
+13/11/2017 23:00,mist
+14/11/2017 0:00,haze
+14/11/2017 1:00,haze
+14/11/2017 2:00,mist
+14/11/2017 3:00,mist
+14/11/2017 4:00,mist
+14/11/2017 5:00,mist
+14/11/2017 6:00,mist
+14/11/2017 7:00,mist
+14/11/2017 8:00,mist
+14/11/2017 9:00,fog
+14/11/2017 10:00,fog
+14/11/2017 11:00,fog
+14/11/2017 12:00,fog
+14/11/2017 13:00,mist
+14/11/2017 14:00,mist
+14/11/2017 15:00,mist
+14/11/2017 16:00,mist
+14/11/2017 17:00,haze
+14/11/2017 18:00,haze
+14/11/2017 19:00,haze
+14/11/2017 20:00,haze
+14/11/2017 21:00,haze
+14/11/2017 22:00,haze
+14/11/2017 23:00,haze
+15/11/2017 0:00,overcast clouds
+15/11/2017 1:00,overcast clouds
+15/11/2017 2:00,overcast clouds
+15/11/2017 3:00,overcast clouds
+15/11/2017 4:00,overcast clouds
+15/11/2017 5:00,overcast clouds
+15/11/2017 6:00,overcast clouds
+15/11/2017 7:00,overcast clouds
+15/11/2017 8:00,overcast clouds
+15/11/2017 9:00,light rain
+15/11/2017 10:00,moderate rain
+15/11/2017 11:00,mist
+15/11/2017 12:00,mist
+15/11/2017 13:00,mist
+15/11/2017 14:00,drizzle
+15/11/2017 15:00,mist
+15/11/2017 16:00,mist
+15/11/2017 17:00,light rain
+15/11/2017 18:00,light intensity drizzle
+15/11/2017 19:00,light intensity drizzle
+15/11/2017 20:00,mist
+15/11/2017 21:00,light intensity drizzle
+15/11/2017 22:00,mist
+15/11/2017 23:00,few clouds
+16/11/2017 0:00,sky is clear
+16/11/2017 1:00,sky is clear
+16/11/2017 2:00,overcast clouds
+16/11/2017 3:00,overcast clouds
+16/11/2017 4:00,overcast clouds
+16/11/2017 5:00,overcast clouds
+16/11/2017 6:00,overcast clouds
+16/11/2017 7:00,overcast clouds
+16/11/2017 8:00,overcast clouds
+16/11/2017 9:00,sky is clear
+16/11/2017 10:00,sky is clear
+16/11/2017 11:00,broken clouds
+16/11/2017 12:00,broken clouds
+16/11/2017 13:00,overcast clouds
+16/11/2017 14:00,overcast clouds
+16/11/2017 15:00,overcast clouds
+16/11/2017 16:00,overcast clouds
+16/11/2017 17:00,overcast clouds
+16/11/2017 18:00,overcast clouds
+16/11/2017 19:00,overcast clouds
+16/11/2017 20:00,overcast clouds
+16/11/2017 21:00,overcast clouds
+16/11/2017 22:00,overcast clouds
+16/11/2017 23:00,overcast clouds
+17/11/2017 0:00,overcast clouds
+17/11/2017 1:00,overcast clouds
+17/11/2017 2:00,overcast clouds
+17/11/2017 3:00,overcast clouds
+17/11/2017 4:00,overcast clouds
+17/11/2017 5:00,overcast clouds
+17/11/2017 6:00,overcast clouds
+17/11/2017 7:00,overcast clouds
+17/11/2017 8:00,overcast clouds
+17/11/2017 9:00,overcast clouds
+17/11/2017 10:00,overcast clouds
+17/11/2017 11:00,scattered clouds
+17/11/2017 12:00,mist
+17/11/2017 13:00,mist
+17/11/2017 14:00,mist
+17/11/2017 15:00,haze
+17/11/2017 16:00,haze
+17/11/2017 17:00,haze
+17/11/2017 18:00,overcast clouds
+17/11/2017 19:00,overcast clouds
+17/11/2017 20:00,moderate rain
+17/11/2017 21:00,light intensity drizzle
+17/11/2017 22:00,proximity thunderstorm
+17/11/2017 23:00,haze
+18/11/2017 0:00,light rain
+18/11/2017 1:00,thunderstorm with light rain
+18/11/2017 2:00,light intensity drizzle
+18/11/2017 3:00,mist
+18/11/2017 4:00,mist
+18/11/2017 5:00,mist
+18/11/2017 6:00,drizzle
+18/11/2017 7:00,moderate rain
+18/11/2017 8:00,light rain
+18/11/2017 9:00,light rain
+18/11/2017 10:00,moderate rain
+18/11/2017 11:00,mist
+18/11/2017 12:00,heavy intensity rain
+18/11/2017 13:00,proximity thunderstorm with rain
+18/11/2017 14:00,mist
+18/11/2017 15:00,mist
+18/11/2017 16:00,proximity thunderstorm
+18/11/2017 17:00,thunderstorm with rain
+18/11/2017 18:00,light snow
+18/11/2017 19:00,light snow
+18/11/2017 20:00,light snow
+18/11/2017 21:00,moderate rain
+18/11/2017 22:00,light rain
+18/11/2017 23:00,light rain
+19/11/2017 0:00,overcast clouds
+19/11/2017 1:00,overcast clouds
+19/11/2017 2:00,overcast clouds
+19/11/2017 3:00,overcast clouds
+19/11/2017 4:00,overcast clouds
+19/11/2017 5:00,overcast clouds
+19/11/2017 6:00,overcast clouds
+19/11/2017 7:00,overcast clouds
+19/11/2017 8:00,overcast clouds
+19/11/2017 9:00,overcast clouds
+19/11/2017 10:00,overcast clouds
+19/11/2017 11:00,overcast clouds
+19/11/2017 12:00,overcast clouds
+19/11/2017 13:00,overcast clouds
+19/11/2017 14:00,scattered clouds
+19/11/2017 15:00,broken clouds
+19/11/2017 16:00,scattered clouds
+19/11/2017 17:00,scattered clouds
+19/11/2017 18:00,scattered clouds
+19/11/2017 19:00,scattered clouds
+19/11/2017 20:00,sky is clear
+19/11/2017 21:00,broken clouds
+19/11/2017 22:00,broken clouds
+19/11/2017 23:00,scattered clouds
+20/11/2017 0:00,scattered clouds
+20/11/2017 1:00,sky is clear
+20/11/2017 2:00,sky is clear
+20/11/2017 3:00,sky is clear
+20/11/2017 4:00,sky is clear
+20/11/2017 5:00,sky is clear
+20/11/2017 6:00,sky is clear
+20/11/2017 7:00,sky is clear
+20/11/2017 8:00,sky is clear
+20/11/2017 9:00,sky is clear
+20/11/2017 10:00,sky is clear
+20/11/2017 11:00,sky is clear
+20/11/2017 12:00,sky is clear
+20/11/2017 13:00,scattered clouds
+20/11/2017 14:00,scattered clouds
+20/11/2017 15:00,sky is clear
+20/11/2017 16:00,scattered clouds
+20/11/2017 17:00,sky is clear
+20/11/2017 18:00,scattered clouds
+20/11/2017 19:00,sky is clear
+20/11/2017 20:00,sky is clear
+20/11/2017 21:00,sky is clear
+20/11/2017 22:00,scattered clouds
+20/11/2017 23:00,scattered clouds
+21/11/2017 0:00,few clouds
+21/11/2017 1:00,sky is clear
+21/11/2017 2:00,sky is clear
+21/11/2017 3:00,scattered clouds
+21/11/2017 4:00,broken clouds
+21/11/2017 5:00,sky is clear
+21/11/2017 6:00,sky is clear
+21/11/2017 7:00,sky is clear
+21/11/2017 8:00,sky is clear
+21/11/2017 9:00,sky is clear
+21/11/2017 10:00,sky is clear
+21/11/2017 11:00,scattered clouds
+21/11/2017 12:00,sky is clear
+21/11/2017 13:00,sky is clear
+21/11/2017 14:00,broken clouds
+21/11/2017 15:00,broken clouds
+21/11/2017 16:00,moderate rain
+21/11/2017 17:00,light rain
+21/11/2017 18:00,light rain
+21/11/2017 19:00,light rain
+21/11/2017 20:00,light rain
+21/11/2017 21:00,light rain
+21/11/2017 22:00,scattered clouds
+21/11/2017 23:00,scattered clouds
+22/11/2017 0:00,scattered clouds
+22/11/2017 1:00,sky is clear
+22/11/2017 2:00,sky is clear
+22/11/2017 3:00,few clouds
+22/11/2017 4:00,scattered clouds
+22/11/2017 5:00,overcast clouds
+22/11/2017 6:00,scattered clouds
+22/11/2017 7:00,sky is clear
+22/11/2017 8:00,scattered clouds
+22/11/2017 9:00,overcast clouds
+22/11/2017 10:00,sky is clear
+22/11/2017 11:00,scattered clouds
+22/11/2017 12:00,scattered clouds
+22/11/2017 13:00,sky is clear
+22/11/2017 14:00,sky is clear
+22/11/2017 15:00,sky is clear
+22/11/2017 16:00,sky is clear
+22/11/2017 17:00,sky is clear
+22/11/2017 18:00,few clouds
+22/11/2017 19:00,sky is clear
+22/11/2017 20:00,few clouds
+22/11/2017 21:00,scattered clouds
+22/11/2017 22:00,sky is clear
+22/11/2017 23:00,sky is clear
+23/11/2017 0:00,broken clouds
+23/11/2017 1:00,broken clouds
+23/11/2017 2:00,overcast clouds
+23/11/2017 3:00,broken clouds
+23/11/2017 4:00,scattered clouds
+23/11/2017 5:00,broken clouds
+23/11/2017 6:00,broken clouds
+23/11/2017 7:00,overcast clouds
+23/11/2017 8:00,overcast clouds
+23/11/2017 9:00,overcast clouds
+23/11/2017 10:00,overcast clouds
+23/11/2017 11:00,overcast clouds
+23/11/2017 12:00,overcast clouds
+23/11/2017 13:00,overcast clouds
+23/11/2017 14:00,overcast clouds
+23/11/2017 15:00,broken clouds
+23/11/2017 16:00,few clouds
+23/11/2017 17:00,few clouds
+23/11/2017 18:00,sky is clear
+23/11/2017 19:00,sky is clear
+23/11/2017 20:00,sky is clear
+23/11/2017 21:00,sky is clear
+23/11/2017 22:00,sky is clear
+23/11/2017 23:00,sky is clear
+24/11/2017 0:00,sky is clear
+24/11/2017 1:00,sky is clear
+24/11/2017 2:00,sky is clear
+24/11/2017 3:00,sky is clear
+24/11/2017 4:00,mist
+24/11/2017 5:00,sky is clear
+24/11/2017 6:00,sky is clear
+24/11/2017 7:00,sky is clear
+24/11/2017 8:00,sky is clear
+24/11/2017 9:00,sky is clear
+24/11/2017 10:00,sky is clear
+24/11/2017 11:00,sky is clear
+24/11/2017 12:00,sky is clear
+24/11/2017 13:00,sky is clear
+24/11/2017 14:00,sky is clear
+24/11/2017 15:00,sky is clear
+24/11/2017 16:00,few clouds
+24/11/2017 17:00,sky is clear
+24/11/2017 18:00,sky is clear
+24/11/2017 19:00,sky is clear
+24/11/2017 20:00,sky is clear
+24/11/2017 21:00,sky is clear
+24/11/2017 22:00,few clouds
+24/11/2017 23:00,few clouds
+25/11/2017 0:00,few clouds
+25/11/2017 1:00,few clouds
+25/11/2017 2:00,few clouds
+25/11/2017 3:00,scattered clouds
+25/11/2017 4:00,scattered clouds
+25/11/2017 5:00,sky is clear
+25/11/2017 6:00,scattered clouds
+25/11/2017 7:00,scattered clouds
+25/11/2017 8:00,sky is clear
+25/11/2017 9:00,sky is clear
+25/11/2017 10:00,sky is clear
+25/11/2017 11:00,sky is clear
+25/11/2017 12:00,sky is clear
+25/11/2017 13:00,few clouds
+25/11/2017 14:00,few clouds
+25/11/2017 15:00,sky is clear
+25/11/2017 16:00,sky is clear
+25/11/2017 17:00,few clouds
+25/11/2017 18:00,few clouds
+25/11/2017 19:00,sky is clear
+25/11/2017 20:00,sky is clear
+25/11/2017 21:00,sky is clear
+25/11/2017 22:00,sky is clear
+25/11/2017 23:00,sky is clear
+26/11/2017 0:00,sky is clear
+26/11/2017 1:00,sky is clear
+26/11/2017 2:00,sky is clear
+26/11/2017 3:00,sky is clear
+26/11/2017 4:00,sky is clear
+26/11/2017 5:00,sky is clear
+26/11/2017 6:00,sky is clear
+26/11/2017 7:00,sky is clear
+26/11/2017 8:00,sky is clear
+26/11/2017 9:00,sky is clear
+26/11/2017 10:00,sky is clear
+26/11/2017 11:00,sky is clear
+26/11/2017 12:00,few clouds
+26/11/2017 13:00,few clouds
+26/11/2017 14:00,sky is clear
+26/11/2017 15:00,few clouds
+26/11/2017 16:00,scattered clouds
+26/11/2017 17:00,scattered clouds
+26/11/2017 18:00,scattered clouds
+26/11/2017 19:00,few clouds
+26/11/2017 20:00,few clouds
+26/11/2017 21:00,few clouds
+26/11/2017 22:00,few clouds
+26/11/2017 23:00,scattered clouds
+27/11/2017 0:00,scattered clouds
+27/11/2017 1:00,sky is clear
+27/11/2017 2:00,sky is clear
+27/11/2017 3:00,sky is clear
+27/11/2017 4:00,sky is clear
+27/11/2017 5:00,sky is clear
+27/11/2017 6:00,sky is clear
+27/11/2017 7:00,sky is clear
+27/11/2017 8:00,sky is clear
+27/11/2017 9:00,sky is clear
+27/11/2017 10:00,mist
+27/11/2017 11:00,mist
+27/11/2017 12:00,mist
+27/11/2017 13:00,mist
+27/11/2017 14:00,mist
+27/11/2017 15:00,mist
+27/11/2017 16:00,haze
+27/11/2017 17:00,haze
+27/11/2017 18:00,haze
+27/11/2017 19:00,sky is clear
+27/11/2017 20:00,sky is clear
+27/11/2017 21:00,sky is clear
+27/11/2017 22:00,broken clouds
+27/11/2017 23:00,broken clouds
+28/11/2017 0:00,broken clouds
+28/11/2017 1:00,broken clouds
+28/11/2017 2:00,overcast clouds
+28/11/2017 3:00,sky is clear
+28/11/2017 4:00,sky is clear
+28/11/2017 5:00,sky is clear
+28/11/2017 6:00,sky is clear
+28/11/2017 7:00,sky is clear
+28/11/2017 8:00,sky is clear
+28/11/2017 9:00,sky is clear
+28/11/2017 10:00,sky is clear
+28/11/2017 11:00,sky is clear
+28/11/2017 12:00,sky is clear
+28/11/2017 13:00,sky is clear
+28/11/2017 14:00,few clouds
+28/11/2017 15:00,broken clouds
+28/11/2017 16:00,broken clouds
+28/11/2017 17:00,overcast clouds
+28/11/2017 18:00,broken clouds
+28/11/2017 19:00,overcast clouds
+28/11/2017 20:00,overcast clouds
+28/11/2017 21:00,broken clouds
+28/11/2017 22:00,overcast clouds
+28/11/2017 23:00,overcast clouds
+29/11/2017 0:00,overcast clouds
+29/11/2017 1:00,light rain
+29/11/2017 2:00,broken clouds
+29/11/2017 3:00,sky is clear
+29/11/2017 4:00,scattered clouds
+29/11/2017 5:00,sky is clear
+29/11/2017 6:00,sky is clear
+29/11/2017 7:00,sky is clear
+29/11/2017 8:00,sky is clear
+29/11/2017 9:00,sky is clear
+29/11/2017 10:00,sky is clear
+29/11/2017 11:00,sky is clear
+29/11/2017 12:00,sky is clear
+29/11/2017 13:00,sky is clear
+29/11/2017 14:00,sky is clear
+29/11/2017 15:00,sky is clear
+29/11/2017 16:00,sky is clear
+29/11/2017 17:00,sky is clear
+29/11/2017 18:00,few clouds
+29/11/2017 19:00,few clouds
+29/11/2017 20:00,few clouds
+29/11/2017 21:00,sky is clear
+29/11/2017 22:00,few clouds
+29/11/2017 23:00,sky is clear
+30/11/2017 0:00,sky is clear

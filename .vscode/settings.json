@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "jupyter.jupyterServerType": "local",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
+}
