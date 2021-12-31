@@ -6,3 +6,8 @@ kaggle/fraud/train.csv
 kaggle/fraud/train_sample.csv
 kaggle/fraud/test.csv
 kaggle/fraud/sample_submission.csv
+kaggle/digits/train.csv
+kaggle/digits/test.csv
+ydata_unsupervised_learning/lecture5_TimeSeries/234.csv
+ydata_unsupervised_learning/lecture5_TimeSeries/temperature.csv
+ydata_unsupervised_learning/lecture5_TimeSeries/COMED_hourly.csv
