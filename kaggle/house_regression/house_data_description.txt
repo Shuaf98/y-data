@@ -16,17 +16,6 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
        160	2-STORY PUD - 1946 & NEWER
        180	PUD - MULTILEVEL - INCL SPLIT LEV/FOYER
        190	2 FAMILY CONVERSION - ALL STYLES AND AGES
-
-MSZoning: Identifies the general zoning classification of the sale.
-		
-       A	Agriculture
-       C	Commercial
-       FV	Floating Village Residential
-       I	Industrial
-       RH	Residential High Density
-       RL	Residential Low Density
-       RP	Residential Low Density Park 
-       RM	Residential Medium Density
 	
 LotFrontage: Linear feet of street connected to property
 
@@ -36,12 +25,6 @@ Street: Type of road access to property
 
        Grvl	Gravel	
        Pave	Paved
-       	
-Alley: Type of alley access to property
-
-       Grvl	Gravel
-       Pave	Paved
-       NA 	No alley access
 		
 LotShape: General shape of property
 
@@ -484,15 +467,6 @@ Fence: Fence quality
        GdWo	Good Wood
        MnWw	Minimum Wood/Wire
        NA	No Fence
-	
-MiscFeature: Miscellaneous feature not covered in other categories
-		
-       Elev	Elevator
-       Gar2	2nd Garage (if not described in garage section)
-       Othr	Other
-       Shed	Shed (over 100 SF)
-       TenC	Tennis Court
-       NA	None
 		
 MiscVal: $Value of miscellaneous feature
 
